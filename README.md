@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emirhan</h1>
 <h3 align="center">A software development student from Turkey</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="450" src="https://github-profile-trophy.vercel.app/?username=eqselans" alt="eqselans" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="400" src="https://github-profile-trophy.vercel.app/?username=eqselans" alt="eqselans" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development and OOP and a little bit Image Processing**
 
