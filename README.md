@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/eqselans](github.com/eqselans)
 
-- 💬 Ask me about **Html, CSS, JavaScript, C# and C++**
+- 💬 Ask me about **Python, C# and C++**
 
 - 📫 How to reach me **emrhnaxu@gmail.com**
 
