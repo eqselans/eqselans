@@ -3,11 +3,11 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="400" src="https://github-profile-trophy.vercel.app/?username=eqselans" alt="eqselans" /></a> </p>
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Big Data Engineering**
 
 - 👨‍💻 All of my projects are available at [github.com/eqselans](github.com/eqselans)
 
-- 💬 Ask me about **Python, C# and C++**
+- 💬 Ask me about **Python, SQL and Java**
 
 - 📫 How to reach me **emrhnaxu@gmail.com**
 
