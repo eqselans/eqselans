@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emirhan</h1>
-<h3 align="center">A big data engineer in Ford Otosan and software development student from Türkiye</h3>
+<h3 align="center">A data engineer/big data asst. admin in Ford Otosan and software development student from Türkiye</h3>
 
 - 🌱 I’m currently learning **Big Data Engineering**
 
